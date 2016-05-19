@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-function",
+    "description": "Check does the given Javascript Object is a function.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-function",
+        "isfunction",
+        "function"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-function",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}

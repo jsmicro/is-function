@@ -1,27 +1,27 @@
 {
-    "name": "@jsmicro/is-function",
-    "version": "1.0.1",
-    "description": "Check does the given Javascript Object is a function.",
-    "main": "main.js",
-    "scripts": {
-        "test": "node test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/jsmicro/is-function.git"
-    },
-    "keywords": [
-        "is-function",
-        "isfunction",
-        "function"
-    ],
-    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/jsmicro/is-function/issues"
-    },
-    "homepage": "https://github.com/jsmicro/is-function#readme",
-    "devDependencies": {
-        "@jsmicro/test": "^1.0.1"
-    }
+  "name": "@jsmicro/is-function",
+  "version": "1.0.2",
+  "description": "Check does the given Javascript Object is a function.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsmicro/is-function.git"
+  },
+  "keywords": [
+    "is-function",
+    "isfunction",
+    "function"
+  ],
+  "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmicro/is-function/issues"
+  },
+  "homepage": "https://github.com/jsmicro/is-function#readme",
+  "devDependencies": {
+    "@jsmicro/test": "^1.0.1"
+  }
 }

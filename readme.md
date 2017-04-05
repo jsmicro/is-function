@@ -30,11 +30,11 @@ bower install --save jsmicro-is-function
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-function
+npm install --save @jsmicro/is-function
 ```
 
 ```js
-const obj = require('jsmicro-is-function');
+const obj = require('@jsmicro/is-function');
 
 // Available in the global object.
 isFunction(function() {}); // true
